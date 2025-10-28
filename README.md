@@ -17,11 +17,12 @@
 ## 🧑‍💻 About Me  
 
 - 💜 [**Open Source**](https://github.com/jenkinsci/jenkins)
-- 🤖 **Generative AI & NLP Engineer** working on cutting-edge multi-agent and enterprise AI systems.
-- 📊 **Data Scientist** with hands-on expertise in NLP, RAG agents, and data engineering for real-world applications.
-- 🛠 Architect of **scalable AI backends** powered by FastAPI, LangChain and HuggingFace.  
-- ☁ Experienced in deploying AI on **AWS, GCP** and managing **MLOps pipelines**.  
-- 🔍 Explorer of AI for content creation, vision-language models, and time series analytics for industry use cases.
+👨‍💻 CTO with 13+ years of experience in full-stack development and enterprise systems architecture.
+🛠 Expert in Odoo Enterprise customization, OWL 2, QWeb/XML, and advanced front-end integrations.
+🤖 AI Solutions Architect with hands-on expertise in RAG, multi-agent systems, and chatbot automation using OpenAI and Meta APIs.
+📊 Proficient in building AI-driven workflows, data engineering pipelines, and real-time integrations with n8n and third-party APIs.
+☁ Experienced in deploying scalable applications and AI models on AWS and GCP, with strong MLOps practices.
+🔍 Specialized in automating logistics, ERP workflows, and intelligent content generation for enterprise use cases.
 
 <br>
 
