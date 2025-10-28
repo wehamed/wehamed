@@ -73,20 +73,20 @@
 ## 📊 GitHub Metrics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sirine707&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirine707&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=wehamhed&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wehamhed&theme=tokyonight&hide_border=true" height="170">
 
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirine707&layout=compact&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sirine707&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" height="164">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wehamhed&layout=compact&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-contributor-stats.vercel.app/api?username=wehamhed&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" height="164">
 </p>
 
 <br>
 
 ## 📈 Activity Graph  
 
-[![Sirine's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sirine707&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Sirine's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wehamhed&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
